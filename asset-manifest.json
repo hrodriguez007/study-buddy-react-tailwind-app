@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/study-buddy-react-tailwind-app/static/css/main.27ccb1fc.css",
+    "main.js": "/study-buddy-react-tailwind-app/static/js/main.e00db5a4.js",
+    "static/media/collegestudent-study.jpg": "/study-buddy-react-tailwind-app/static/media/collegestudent-study.c65275428824619ac4d5.jpg",
+    "static/media/art-icon.png": "/study-buddy-react-tailwind-app/static/media/art-icon.8125350183e3c9964490.png",
+    "static/media/science-icon.png": "/study-buddy-react-tailwind-app/static/media/science-icon.bb2a9dd4137335490605.png",
+    "static/media/english-icon.png": "/study-buddy-react-tailwind-app/static/media/english-icon.e50e5626dc71fedfcc1b.png",
+    "index.html": "/study-buddy-react-tailwind-app/index.html",
+    "main.27ccb1fc.css.map": "/study-buddy-react-tailwind-app/static/css/main.27ccb1fc.css.map",
+    "main.e00db5a4.js.map": "/study-buddy-react-tailwind-app/static/js/main.e00db5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ccb1fc.css",
+    "static/js/main.e00db5a4.js"
+  ]
+}
